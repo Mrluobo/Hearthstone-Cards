@@ -1,7 +1,7 @@
 # Hearthstone-Cards
 Just list Hearthstone cards
 
-只是一个简单的炉石传说的卡牌列表
+只是一个简单的炉石传说的卡牌列表, 也是一个AngularJS的小练习.
 
 - 数据来源
   http://hearthstonejson.com/
@@ -35,4 +35,5 @@ Just list Hearthstone cards
 - 图片来源
   http://wow.zamimg.com/images/hearthstone/cards/enus/original/{{card.id}}.png
   
-  
+- 截图
+![ScreenShot](https://github.com/hjzheng/Hearthstone-Cards/raw/master/img/cards.png)
