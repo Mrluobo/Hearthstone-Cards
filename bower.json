@@ -1,0 +1,19 @@
+{
+  "name": "Hearthstone-Cards",
+  "version": "0.0.0",
+  "authors": [
+    "hjzheng <zhenghaoju700@163.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.19",
+    "jquery": "~2.1.3",
+    "bootstrap": "~3.1.1"
+  }
+}
