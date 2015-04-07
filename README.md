@@ -37,3 +37,7 @@ Just list Hearthstone cards
   
 - 截图
 ![ScreenShot](https://github.com/hjzheng/Hearthstone-Cards/raw/master/img/cards.png)
+
+- 计划
+  1. Angularjs延迟加载图片
+  2. 如果图片不存在, 不出现img标签
