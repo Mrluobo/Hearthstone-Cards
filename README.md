@@ -7,7 +7,9 @@ Just list Hearthstone cards
   http://hearthstonejson.com/
   
   Example: 
+  
   ![img](http://wow.zamimg.com/images/hearthstone/cards/enus/original/CS2_235.png)
+  
   ```javascript
   {
       "id": "CS2_235",
